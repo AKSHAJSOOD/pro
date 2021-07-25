@@ -1,0 +1,43 @@
+body {
+    text-align: center;
+}
+
+.row {
+    margin-left: 15px;
+    margin-right: 15px;
+
+}
+
+.img {
+    width: 25%;
+    height: 500px;
+    margin-left: 15px;
+    margin-right: 15px;
+}
+
+#menu {
+    background-color: cornsilk;
+    float: right;
+    color: antiquewhite;
+    position: fixed;
+    border-style: hidden;
+}
+
+menu:hover {
+    color: aliceblue;
+}
+
+#image {
+    width: 90%;
+    
+} 
+#Home {
+    background-color: darkred;
+}
+#grids {
+    background-color: fuchsia;
+}
+
+#slides {
+    background-color: darkorange;
+}
